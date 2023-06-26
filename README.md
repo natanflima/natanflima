@@ -4,7 +4,7 @@
 
 
 
-![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=natanflima&theme=gotham)
+! [Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=natanflima&theme=gotham)
 
 
 <div align="center">  
